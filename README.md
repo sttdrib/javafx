@@ -1,2 +1,2 @@
-# javafx-calculator
+# javafx
 th
